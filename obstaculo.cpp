@@ -37,7 +37,7 @@ void Obstaculo::desenha() {
     glColor3f(1.0, 0.0, 0.0);
     glTranslatef(posicao.x, posicao.y, 0);
     glScalef(largura, largura, 1);
-    Formas::estrelaTextura2();
+    Formas::estrelaObstaculo();
     glPopMatrix();
 }
 

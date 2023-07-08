@@ -19,8 +19,6 @@ public:
     static void esferaNuvem();
     static void estrelaObstaculo();
     static void estrelaPersonagem();
-    static void estrelaTextura();
-    static void estrelaTextura2();
     //void desenhaLuz();
 
 };
