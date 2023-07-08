@@ -49,7 +49,7 @@ void Personagem::desenha() {
     //glColor3f(corIluminada.r, corIluminada.g, corIluminada.b);
 
     // Desenhar personagem
-    Formas::estrelaTextura();
+    Formas::estrelaPersonagem();
 
     glPopMatrix();
 }

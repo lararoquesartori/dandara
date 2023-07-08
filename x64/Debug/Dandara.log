@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 ﻿  Dandara.vcxproj -> C:\Users\lucas\Documents\dandara\x64\Debug\Dandara.exe
+=======
+﻿  main.cpp
+C:\Users\Dell\Documents\CG\Dandara\main.cpp(113,26): warning C4244: 'argumento': conversão de 'double' para 'unsigned int', possível perda de dados
+C:\Users\Dell\Documents\CG\Dandara\main.cpp(115,32): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Dell\Documents\CG\Dandara\main.cpp(177,26): warning C4244: 'argumento': conversão de 'double' para 'unsigned int', possível perda de dados
+  Dandara.vcxproj -> C:\Users\Dell\Documents\CG\Dandara\x64\Debug\Dandara.exe
+>>>>>>> a2d7957cc95b7cca685ea894f1d99d351c398cc3

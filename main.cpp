@@ -28,7 +28,7 @@ unsigned int texLuaId; //identificador da textura do chão
 
 
 // Variáveis globais
-float frameRate = 100;
+float frameRate = 10;
 Personagem personagem;
 
 Obstaculo obstaculo1(5);
